@@ -1,0 +1,6 @@
+C:\Users\Grand\Desktop\ExpIT\Lab9_New\Lab9_New\bin\Debug\Lab9_New.exe.config
+C:\Users\Grand\Desktop\ExpIT\Lab9_New\Lab9_New\bin\Debug\Lab9_New.exe
+C:\Users\Grand\Desktop\ExpIT\Lab9_New\Lab9_New\bin\Debug\Lab9_New.pdb
+C:\Users\Grand\Desktop\ExpIT\Lab9_New\Lab9_New\obj\Debug\Lab9_New.csprojResolveAssemblyReference.cache
+C:\Users\Grand\Desktop\ExpIT\Lab9_New\Lab9_New\obj\Debug\Lab9_New.exe
+C:\Users\Grand\Desktop\ExpIT\Lab9_New\Lab9_New\obj\Debug\Lab9_New.pdb
